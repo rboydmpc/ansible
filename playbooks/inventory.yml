@@ -1,6 +1,5 @@
-plugin: morpheus_inventory
-groups:
-  - name: morphtest
-    searchtype: label
-    searchstring: whateverlabel
-morpheus_url: https://morpheus2.boyd.local
+plugin: morpheusdata.morpheus.morpheus_inventory
+groups: 
+  - searchtype: cloud
+    searchstring: vmware
+morpheus_url: 'https://morpheus2.boyd.local'
