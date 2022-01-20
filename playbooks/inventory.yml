@@ -2,4 +2,4 @@ plugin: morpheus_inventory
 groups: 
   - searchtype: cloud
     searchstring: vmware
-morpheus_url: 'https://morpheus2.boyd.local'
+morpheus_url: 'https://morpheus.boydslab.com'
